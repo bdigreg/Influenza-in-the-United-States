@@ -13,3 +13,6 @@ Influenza deaths by geography, time, age, and gender (Source:​ ​CDC)
 Population data by geography: (Source: US Census Bureau)
 
 Fictional analysis of influenza deaths for CareerFoundry project
+#
+Link to Tableau Storyboard
+[https://public.tableau.com/views/InfluenzaintheUnitedStates_16882220858780/STRORYBOARD?:language=en-US&:display_count=n&:origin=viz_share_link]
